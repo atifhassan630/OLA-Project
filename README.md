@@ -11,7 +11,7 @@ This project is divided into the following sections:
 The goal is to understand trends, customer behavior, and operational patterns, such as peak hours, ride distribution, and customer demographics.
 ## Dataset Used
 The dataset for this project 
-- <a href = https://github.com/atifhassan630> Dataset</a>
+- <a href = https://github.com/atifhassan630/OLA-Project/blob/main/Ola-data-file.xlsx> Dataset</a>
 ## Business Questions To Answer
 ## For SOL 
  1. Retrieve all successful bookings:
@@ -26,7 +26,7 @@ The dataset for this project
   10. List all incomplete rides along with the reason:
 
 - Solution of these problem <a href =https://github.com/atifhassan630/OLA-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
--  Create Database Ola_Use Ola(Through Views Database) <a href =https://github.com/atifhassan630/OLA-Project/blob/main/SQL_queries.SQL >SQl_Queries </a>
+-  Create Database Ola_Use Ola(Through Views Database) <a href = https://github.com/atifhassan630/OLA-Project/blob/main/Create_Database_Ola_Use_Ola.sql >SQl_Queries </a>
  
  ## For Power BI 
  1. Ride Volume Over Time
