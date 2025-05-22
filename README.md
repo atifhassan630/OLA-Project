@@ -25,8 +25,8 @@ The dataset for this project
  9. Calculate the total booking value of rides completed successfully:
   10. List all incomplete rides along with the reason:
 
-- Solution of these problem <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/SQL_queries.SQL>SQl_Queries</a>
--  Create Database Ola_Use Ola(Through Views Database) <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Create_Database_Ola_Use_Ola.sql >SQl_Queries </a>
+- Solution of these problem <a href = https://github.com/atifhassan630>SQl_Queries</a>
+-  Create Database Ola_Use Ola(Through Views Database) <a href =https://github.com/atifhassan630 >SQl_Queries </a>
  
  ## For Power BI 
  1. Ride Volume Over Time
@@ -41,12 +41,12 @@ The dataset for this project
   10. Customer vs. Driver Ratings
 
 # Dashboard
-<img src = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.png" alt = "Overall-Report-view">
- <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf> Overall-Report</a> ||
- <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf"> Vehicle_type-Report</a> ||
- <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Revenue.pdf"> Revenue-Report</a> ||
- <a href = "https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Cancellation.pdf"> Cancellation-Report</a> ||
- <a href = https://github.com/Anjalikumariyes/Ola-Data-Analyst-Project/blob/main/Ola_Report-Rating.pdf> Rating-Report</a> 
+<img src = "https://github.com/atifhassan630/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.png" alt = "Overall-Report-view">
+ <a href = https://github.com/atifhassan630/Ola-Data-Analyst-Project/blob/main/Ola_Report-Overall.pdf> Overall-Report</a> ||
+ <a href = "https://github.com/atifhassan630/Ola-Data-Analyst-Project/blob/main/Ola__Report-Vehicle_Type.pdf"> Vehicle_type-Report</a> ||
+ <a href = "https://github.com/atifhassan630/Ola-Data-Analyst-Project/blob/main/Ola_Report-Revenue.pdf"> Revenue-Report</a> ||
+ <a href = "https://github.com/atifhassan630/Ola-Data-Analyst-Project/blob/main/Ola_Report-Cancellation.pdf"> Cancellation-Report</a> ||
+ <a href = https://github.com/atifhassan630/Ola-Data-Analyst-Project/blob/main/Ola_Report-Rating.pdf> Rating-Report</a> 
 
 
  
